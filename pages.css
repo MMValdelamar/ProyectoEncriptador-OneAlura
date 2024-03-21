@@ -420,9 +420,9 @@ main {
         justify-content: center;
         align-items: center;
         margin:0px 30px 28px -25px;
-        width: 80%;
-        height:100%;
-        gap: 150px;
+        width: 60%;
+        height:50%;
+        gap: 10px;
     }
 
     .img__muneco img {
