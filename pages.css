@@ -368,7 +368,7 @@ main {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 415px) {
     header {
         width: 100%;
         height: auto;
@@ -420,9 +420,9 @@ main {
         justify-content: center;
         align-items: center;
         margin:0px 28px -25px;
-        width: 200%;
-        height:50%;
-        gap: 10px;
+        width: 120%;
+        height:90%;
+        gap: 70px;
     }
 
     .img__muneco img {
