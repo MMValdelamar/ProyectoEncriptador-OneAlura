@@ -421,8 +421,8 @@ main {
         align-items: center;
         margin:0px 30px 28px -25px;
         width: 80%;
-        height: auto;
-        gap: 10px;
+        height:100%;
+        gap: 150px;
     }
 
     .img__muneco img {
@@ -441,8 +441,8 @@ main {
 
     .container__letf textarea {
         border: 0;
-        width: 60%;
-        height: 140px;
+        width: 70%;
+        height: 220px;
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
