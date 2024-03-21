@@ -419,8 +419,8 @@ main {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin:0px 30px 28px -25px;
-        width: 60%;
+        margin:0px 28px -25px;
+        width: 200%;
         height:50%;
         gap: 10px;
     }
